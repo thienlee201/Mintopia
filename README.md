@@ -31,6 +31,7 @@ npm install
 **🔑 Create .env file**
 
 VITE_CONTRACT_ADDRESS=0xc8e3EEc851dFf273d1aA1a6EF71585e973004080
+
 VITE_PINATA_JWT=<JWT get on Pinata API KEY>
 
 **🚀 Start the Application**
@@ -41,6 +42,7 @@ The app will be available at http://localhost:8080.
 
 
 **🔗 Connect Your Wallet**
+
 Open the app in your browser.
 Connect your MetaMask wallet.
 
